@@ -1,0 +1,12 @@
+{
+  "[html]": {
+    "editor.tabSize": 2,
+    "editor.detectIndentation": false
+  },
+  "[css]": {
+    "prettier.tabWidth": 4
+  },
+  "[javascript]": {
+    "prettier.tabWidth": 4
+  }
+}
